@@ -1,1 +1,1 @@
-# GenAI-Handson-1
+# GenAI-Handson
